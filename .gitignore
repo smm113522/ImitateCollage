@@ -25,3 +25,4 @@ hs_err_pid*
 /ui/../../build
 /ui/.gradle
 /ui/.idea
+/ui/app/*.iml
