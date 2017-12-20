@@ -1,0 +1,728 @@
+[
+    {
+        "children": [
+            {
+                "home_man_priority": 1,
+                "home_priority": 1,
+                "id": 45,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-06/002216dbb20fb111c63c7b7d4af5319f.png",
+                "opt_id": 45,
+                "opt_name": "女装"
+            },
+            {
+                "home_man_priority": 2,
+                "home_priority": 2,
+                "id": 305,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-06/bbfde061220302958338e421603dc34f.png",
+                "opt_id": 305,
+                "opt_name": "套装"
+            },
+            {
+                "home_man_priority": 3,
+                "home_priority": 3,
+                "id": 52,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-06/b282023a0e1cf238b141c49f2a50efb4.png",
+                "opt_id": 52,
+                "opt_name": "女裤"
+            },
+            {
+                "home_man_priority": 4,
+                "home_priority": 4,
+                "id": 610,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-06/772ce30f0fc3d1994aa8c77f692f36ce.png",
+                "opt_id": 610,
+                "opt_name": "内衣裤袜"
+            },
+            {
+                "home_man_priority": 5,
+                "home_priority": 5,
+                "id": 48,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-06/591ab35340da5e6b75916bb770851480.jpeg",
+                "opt_id": 48,
+                "opt_name": "女鞋"
+            },
+            {
+                "home_man_priority": 6,
+                "home_priority": 6,
+                "id": 307,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-06/b58105fbd47c03bb68685731998d30e7.png",
+                "opt_id": 307,
+                "opt_name": "裙子"
+            },
+            {
+                "home_man_priority": 7,
+                "home_priority": 7,
+                "id": 485,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-06/7c25deaf9dc6722d1dd3e7d7e78d19d5.png",
+                "opt_id": 485,
+                "opt_name": "大码女装"
+            }
+        ],
+        "home_man_priority": 8,
+        "home_priority": 1,
+        "id": 14,
+        "image_url": "http://omsproductionimg.yangkeduo.com/goods/5635bbe762/730/100/6bce5c6db8e6bf1a41b2544d453a255c.jpg",
+        "opt_id": 14,
+        "opt_name": "服饰"
+    },
+    {
+        "children": [
+            {
+                "home_man_priority": 1,
+                "home_priority": 1,
+                "id": 1135,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-06/8359d04b12842eeb6722f897b1a22bcd.png",
+                "opt_id": 1135,
+                "opt_name": "男装"
+            },
+            {
+                "home_man_priority": 2,
+                "home_priority": 2,
+                "id": 1221,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-06/5fb2a6336a2eaf3fb69e3fefd4fd7e01.png",
+                "opt_id": 1221,
+                "opt_name": "男裤"
+            },
+            {
+                "home_man_priority": 3,
+                "home_priority": 3,
+                "id": 1272,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-06/0c6d526194f21fc771fc2229b5b18538.png",
+                "opt_id": 1272,
+                "opt_name": "休闲裤"
+            },
+            {
+                "home_man_priority": 4,
+                "home_priority": 4,
+                "id": 1224,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-06/c386dcf75822d743c89a5fe44b6b8537.png",
+                "opt_id": 1224,
+                "opt_name": "内衣裤袜"
+            },
+            {
+                "home_man_priority": 5,
+                "home_priority": 5,
+                "id": 1406,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-06/2c16a8c79a01f8303bc909fc8d9d13cd.jpeg",
+                "opt_id": 1406,
+                "opt_name": "男鞋"
+            },
+            {
+                "home_man_priority": 6,
+                "home_priority": 6,
+                "id": 1501,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-18/ecf847d9c1962298d4c15ce0e92236d8.jpeg",
+                "opt_id": 1501,
+                "opt_name": "凉鞋凉拖"
+            },
+            {
+                "home_man_priority": 7,
+                "home_priority": 7,
+                "id": 1222,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-06/8a7ff140e9426a832962901c02d143c7.png",
+                "opt_id": 1222,
+                "opt_name": "T恤"
+            }
+        ],
+        "home_man_priority": 1,
+        "home_priority": 2,
+        "id": 743,
+        "image_url": "file:///C:/fakepath/%E9%A2%84%E8%A7%88%E5%9B%BE.jpg",
+        "opt_id": 743,
+        "opt_name": "男装"
+    },
+    {
+        "children": [
+            {
+                "home_man_priority": 1,
+                "home_priority": 1,
+                "id": 25,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-05-18/953e8f0455676c183f5d59fba37afe77.jpeg",
+                "opt_id": 25,
+                "opt_name": "童装"
+            },
+            {
+                "home_man_priority": 2,
+                "home_priority": 2,
+                "id": 29,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-20/bb94525f06c497e7bd394e4b78daba83.jpeg",
+                "opt_id": 29,
+                "opt_name": "玩具乐器"
+            },
+            {
+                "home_man_priority": 3,
+                "home_priority": 3,
+                "id": 5,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/image/5/uPgGCwojMkj3GBOAVFtbMMLM4stj1WFF.jpg",
+                "opt_id": 5,
+                "opt_name": "纸尿裤"
+            },
+            {
+                "home_man_priority": 4,
+                "home_priority": 4,
+                "id": 20,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/label/20/raC8tstT9Mlr6Z9nJsvtP3g34rLpEZeL.jpg",
+                "opt_id": 20,
+                "opt_name": "童车童床"
+            },
+            {
+                "home_man_priority": 5,
+                "home_priority": 5,
+                "id": 600,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-05-18/476d7072505a937378f07f340f4e8023.jpeg",
+                "opt_id": 600,
+                "opt_name": "童鞋"
+            },
+            {
+                "home_man_priority": 6,
+                "home_priority": 6,
+                "id": 34,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-05-18/bb8ba93131c1bd0bc3845494dc414d6d.jpeg",
+                "opt_id": 34,
+                "opt_name": "孕妈专区"
+            },
+            {
+                "home_man_priority": 7,
+                "home_priority": 7,
+                "id": 750,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/label/4/N8Vcop7JxdBkGqIHS5rpm2d9Cu5AY7Jl.jpg",
+                "opt_id": 750,
+                "opt_name": "奶粉"
+            }
+        ],
+        "home_man_priority": 6,
+        "home_priority": 3,
+        "id": 4,
+        "image_url": "http://omsproductionimg.yangkeduo.com/goods/5635bbe762/730/100/faaaf22d23212c735e64c78480ffa81d.jpg",
+        "opt_id": 4,
+        "opt_name": "母婴"
+    },
+    {
+        "children": [
+            {
+                "home_man_priority": 1,
+                "home_priority": 1,
+                "id": 330,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-05/2827cd643b80d6756317e9a7e1fcd932.jpeg",
+                "opt_id": 330,
+                "opt_name": "纸品湿巾"
+            },
+            {
+                "home_man_priority": 2,
+                "home_priority": 2,
+                "id": 326,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-05/4a34e0d706622a6cba86a4673648fb32.jpeg",
+                "opt_id": 326,
+                "opt_name": "厨房用品"
+            },
+            {
+                "home_man_priority": 3,
+                "home_priority": 3,
+                "id": 329,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-05/818338fc75ab4c9783321e1fb672ec36.jpeg",
+                "opt_id": 329,
+                "opt_name": "日用百货"
+            },
+            {
+                "home_man_priority": 4,
+                "home_priority": 4,
+                "id": 41,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-06/13b86d6d1bb9fac162c1080124321c83.jpeg",
+                "opt_id": 41,
+                "opt_name": "饰品首饰"
+            },
+            {
+                "home_man_priority": 5,
+                "home_priority": 5,
+                "id": 277,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-05/86af6c60523b53f60837c75d9f979866.jpeg",
+                "opt_id": 277,
+                "opt_name": "收纳整理"
+            },
+            {
+                "home_man_priority": 6,
+                "home_priority": 6,
+                "id": 328,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-05/c2d59c00d3bf7ebe2bd02d6dfd2678b2.jpeg",
+                "opt_id": 328,
+                "opt_name": "洗护清洁"
+            },
+            {
+                "home_man_priority": 7,
+                "home_priority": 7,
+                "id": 327,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-05/333d07d1268c9c27994e28e49b5f6b31.jpeg",
+                "opt_id": 327,
+                "opt_name": "清洁用具"
+            }
+        ],
+        "home_man_priority": 4,
+        "home_priority": 4,
+        "id": 15,
+        "image_url": "http://omsproductionimg.yangkeduo.com/goods/5635bbe762/730/100/939062fd6480f3f9a0662b733683b63e.jpg",
+        "opt_id": 15,
+        "opt_name": "家居"
+    },
+    {
+        "children": [
+            {
+                "home_man_priority": 1,
+                "home_priority": 1,
+                "id": 683,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-05/159a0f98a828449155772c3e3163708b.jpeg",
+                "opt_id": 683,
+                "opt_name": "乳制品"
+            },
+            {
+                "home_man_priority": 2,
+                "home_priority": 2,
+                "id": 667,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-06-18/0415135595385f7e60aa0554b129ece8.jpeg",
+                "opt_id": 667,
+                "opt_name": "糕点饼干"
+            },
+            {
+                "home_man_priority": 3,
+                "home_priority": 3,
+                "id": 109,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-05/225ca41f4f593187eed5f08132bf9681.jpeg",
+                "opt_id": 109,
+                "opt_name": "酒水饮料"
+            },
+            {
+                "home_man_priority": 4,
+                "home_priority": 4,
+                "id": 118,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-05/83ce23800bc1360f5a4ad97a35bf1208.jpeg",
+                "opt_id": 118,
+                "opt_name": "茶叶冲饮"
+            },
+            {
+                "home_man_priority": 5,
+                "home_priority": 5,
+                "id": 2,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-06-18/1a682372a915ec2f3dc32a53e79c0c1e.jpeg",
+                "opt_id": 2,
+                "opt_name": "休闲零食"
+            },
+            {
+                "home_man_priority": 6,
+                "home_priority": 6,
+                "id": 124,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-18/337174b78eb060a54f98b05f8b9b72ae.jpeg",
+                "opt_id": 124,
+                "opt_name": "粮油速食"
+            },
+            {
+                "home_man_priority": 7,
+                "home_priority": 7,
+                "id": 96,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-05/83403f889d34c59313194fe285e9a631.jpeg",
+                "opt_id": 96,
+                "opt_name": "坚果蜜饯"
+            }
+        ],
+        "home_man_priority": 5,
+        "home_priority": 5,
+        "id": 1,
+        "image_url": "http://omsproductionimg.yangkeduo.com/goods/5635bbe762/730/100/4678b88faeeb73842825211bcdc7d313.jpg",
+        "opt_id": 1,
+        "opt_name": "美食"
+    },
+    {
+        "children": [
+            {
+                "home_man_priority": 1,
+                "home_priority": 1,
+                "id": 447,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-30/df4536ddcccd6e09b6f200e1ab4a4e47.jpeg",
+                "opt_id": 447,
+                "opt_name": "厨房电器"
+            },
+            {
+                "home_man_priority": 2,
+                "home_priority": 2,
+                "id": 1622,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-29/4c96c5d28d77233409063ead3e3ac7e4.jpeg",
+                "opt_id": 1622,
+                "opt_name": "电风扇"
+            },
+            {
+                "home_man_priority": 3,
+                "home_priority": 3,
+                "id": 804,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-30/ff10bd1dd3d9dbc3b788b31293d16e05.jpeg",
+                "opt_id": 804,
+                "opt_name": "饭煲电磁炉"
+            },
+            {
+                "home_man_priority": 4,
+                "home_priority": 4,
+                "id": 1625,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-29/988de2f353c0f8ad77ea46146984fb0d.jpeg",
+                "opt_id": 1625,
+                "opt_name": "洗衣机"
+            },
+            {
+                "home_man_priority": 5,
+                "home_priority": 5,
+                "id": 1624,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-29/eb4e88692df95bfe032749b072aa1b72.jpeg",
+                "opt_id": 1624,
+                "opt_name": "冰箱空调"
+            },
+            {
+                "home_man_priority": 6,
+                "home_priority": 6,
+                "id": 445,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-26/a9fd6d764429d64e291157527c740368.jpeg",
+                "opt_id": 445,
+                "opt_name": "个人护理"
+            },
+            {
+                "home_man_priority": 7,
+                "home_priority": 7,
+                "id": 522,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-29/8bf366b1192cc5f4ac888cf86912988f.jpeg",
+                "opt_id": 522,
+                "opt_name": "电视厨卫"
+            }
+        ],
+        "home_man_priority": 2,
+        "home_priority": 6,
+        "id": 18,
+        "image_url": "http://omsproductionimg.yangkeduo.com/goods/5635bbe762/730/100/6c2d62a4b74ce025596e7ead61d31177.jpg",
+        "opt_id": 18,
+        "opt_name": "电器"
+    },
+    {
+        "children": [
+            {
+                "home_man_priority": 1,
+                "home_priority": 1,
+                "id": 317,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-18/a63a4e5e9337146270a95bd2405ea5f3.jpeg",
+                "opt_id": 317,
+                "opt_name": "面膜"
+            },
+            {
+                "home_man_priority": 2,
+                "home_priority": 2,
+                "id": 69,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-05-17/4edb439d19e08d9ab10d9b5b627ed5ac.jpeg",
+                "opt_id": 69,
+                "opt_name": "面部护理"
+            },
+            {
+                "home_man_priority": 3,
+                "home_priority": 3,
+                "id": 505,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-05-19/dadd26f2ec8938c6b08acb802251ad73.jpeg",
+                "opt_id": 505,
+                "opt_name": "口红唇膏"
+            },
+            {
+                "home_man_priority": 4,
+                "home_priority": 4,
+                "id": 607,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-05-19/886e89a3a1b8d57ba592d45e74e36440.jpeg",
+                "opt_id": 607,
+                "opt_name": "美妆工具"
+            },
+            {
+                "home_man_priority": 5,
+                "home_priority": 5,
+                "id": 643,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-05-19/4e5d31319cc3914300d0a86bacea7ec8.jpeg",
+                "opt_id": 643,
+                "opt_name": "美发护发"
+            },
+            {
+                "home_man_priority": 6,
+                "home_priority": 6,
+                "id": 509,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-05-19/2be3d6e0a0737d1c431c0db0def103c6.jpeg",
+                "opt_id": 509,
+                "opt_name": "爽肤水乳"
+            },
+            {
+                "home_man_priority": 7,
+                "home_priority": 7,
+                "id": 70,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-05-19/f2f4cfd7c07140cfe0115236ce226727.jpeg",
+                "opt_id": 70,
+                "opt_name": "身体护理"
+            }
+        ],
+        "home_man_priority": 11,
+        "home_priority": 7,
+        "id": 16,
+        "image_url": "http://omsproductionimg.yangkeduo.com/goods/5635bbe762/730/100/36848d004c751f2af95c1879a50e1600.jpg",
+        "opt_id": 16,
+        "opt_name": "美妆"
+    },
+    {
+        "children": [
+            {
+                "home_man_priority": 1,
+                "home_priority": 1,
+                "id": 819,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-31/8d7658f53ecab3ccd3be1841d409c7c7.jpeg",
+                "opt_id": 819,
+                "opt_name": "床品套件"
+            },
+            {
+                "home_man_priority": 2,
+                "home_priority": 2,
+                "id": 823,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-31/8cd6029cbf0f43632c02b4d2c09cf7e9.jpeg",
+                "opt_id": 823,
+                "opt_name": "布艺家饰"
+            },
+            {
+                "home_man_priority": 3,
+                "home_priority": 3,
+                "id": 856,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-31/6823a200589b8ea4a9b6d8afaad56e38.jpeg",
+                "opt_id": 856,
+                "opt_name": "住宅家具"
+            },
+            {
+                "home_man_priority": 4,
+                "home_priority": 4,
+                "id": 858,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-31/fad55a26614fde34b7e0a601667b5c65.jpeg",
+                "opt_id": 858,
+                "opt_name": "凉席蚊帐"
+            },
+            {
+                "home_man_priority": 5,
+                "home_priority": 5,
+                "id": 821,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-31/d4d0b986c87413be1933eb37f5fd2a08.jpeg",
+                "opt_id": 821,
+                "opt_name": "被子毯子"
+            },
+            {
+                "home_man_priority": 6,
+                "home_priority": 6,
+                "id": 987,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-31/ea23d2ce8802faad34097f713313e46c.jpeg",
+                "opt_id": 987,
+                "opt_name": "枕头床垫"
+            },
+            {
+                "home_man_priority": 7,
+                "home_priority": 7,
+                "id": 860,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-31/dcebfcb2fc7c8d4ddea0b367456e10f4.jpeg",
+                "opt_id": 860,
+                "opt_name": "衣柜鞋柜"
+            }
+        ],
+        "home_man_priority": 9,
+        "home_priority": 8,
+        "id": 818,
+        "image_url": "http://omsproductionimg.yangkeduo.com/images/image/818/XU6GsVFgTeTR66Ii5YSvlKGGVsU3bzzV.jpg",
+        "opt_id": 818,
+        "opt_name": "家纺"
+    },
+    {
+        "children": [
+            {
+                "home_man_priority": 1,
+                "home_priority": 1,
+                "id": 1544,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-29/64618b997f6518eb4ae539a0396e26f2.jpeg",
+                "opt_id": 1544,
+                "opt_name": "智能机"
+            },
+            {
+                "home_man_priority": 2,
+                "home_priority": 2,
+                "id": 1545,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-29/7dc9e9a0fb673937ef39464a256b366e.jpeg",
+                "opt_id": 1545,
+                "opt_name": "老人机"
+            },
+            {
+                "home_man_priority": 3,
+                "home_priority": 3,
+                "id": 1546,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-29/cc635a636ffc01f67ca1dd06e73db6f7.jpeg",
+                "opt_id": 1546,
+                "opt_name": "数码配件"
+            },
+            {
+                "home_man_priority": 4,
+                "home_priority": 4,
+                "id": 1549,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-29/e89bd1f6eb37dbb77900939ba0425333.jpeg",
+                "opt_id": 1549,
+                "opt_name": "智能设备"
+            },
+            {
+                "home_man_priority": 5,
+                "home_priority": 5,
+                "id": 1548,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-29/9cf15845a38f1d25d9d1615a325cb3a5.jpeg",
+                "opt_id": 1548,
+                "opt_name": "汽车保养"
+            },
+            {
+                "home_man_priority": 6,
+                "home_priority": 6,
+                "id": 1547,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-29/a1e1f886c887cae51f11d48e5d3c4e2d.jpeg",
+                "opt_id": 1547,
+                "opt_name": "汽车内外饰"
+            },
+            {
+                "home_man_priority": 7,
+                "home_priority": 7,
+                "id": 1552,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-29/7bd0c18d8586b195cd372d4d0b3444ba.jpeg",
+                "opt_id": 1552,
+                "opt_name": "办公文具"
+            }
+        ],
+        "home_man_priority": 3,
+        "home_priority": 9,
+        "id": 1543,
+        "image_url": "",
+        "opt_id": 1543,
+        "opt_name": "手机"
+    },
+    {
+        "children": [
+            {
+                "home_man_priority": 1,
+                "home_priority": 1,
+                "id": 1452,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-10/b59f44de9f8b5ce4cd4b6ee7a616297b.jpeg",
+                "opt_id": 1452,
+                "opt_name": "运动鞋"
+            },
+            {
+                "home_man_priority": 2,
+                "home_priority": 2,
+                "id": 1455,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-10/7629912140477c25f13309805ae95e58.jpeg",
+                "opt_id": 1455,
+                "opt_name": "健美瘦身"
+            },
+            {
+                "home_man_priority": 3,
+                "home_priority": 3,
+                "id": 1456,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-10/89f5010fa40114be6d9fa06d07d3b236.jpeg",
+                "opt_id": 1456,
+                "opt_name": "户外装备"
+            },
+            {
+                "home_man_priority": 4,
+                "home_priority": 4,
+                "id": 1511,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-19/cd4e9bb0e9b3232fe79f6b3dac416f55.jpeg",
+                "opt_id": 1511,
+                "opt_name": "沙滩鞋"
+            },
+            {
+                "home_man_priority": 5,
+                "home_priority": 5,
+                "id": 1453,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-10/c32996fafa01cc223eca6290cdeae83e.jpeg",
+                "opt_id": 1453,
+                "opt_name": "运动服饰"
+            },
+            {
+                "home_man_priority": 6,
+                "home_priority": 6,
+                "id": 1458,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-10/fa784fd4b67ae72de31e58f12e311339.jpeg",
+                "opt_id": 1458,
+                "opt_name": "游泳用品"
+            },
+            {
+                "home_man_priority": 7,
+                "home_priority": 7,
+                "id": 1457,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-07-10/02cde70c665ad984b459e4d7bce3b7b3.png",
+                "opt_id": 1457,
+                "opt_name": "体育用品"
+            }
+        ],
+        "home_man_priority": 7,
+        "home_priority": 10,
+        "id": 1451,
+        "image_url": "",
+        "opt_id": 1451,
+        "opt_name": "运动"
+    },
+    {
+        "children": [
+            {
+                "home_man_priority": 1,
+                "home_priority": 1,
+                "id": 140,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-06-05/fe19d2f660448c3cb3a779adecb9dcb0.jpeg",
+                "opt_id": 140,
+                "opt_name": "新鲜水果"
+            },
+            {
+                "home_man_priority": 2,
+                "home_priority": 2,
+                "id": 1044,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-05-17/998e9d8ecd437624c33f9bab00a7c85e.jpeg",
+                "opt_id": 1044,
+                "opt_name": "芒果节"
+            },
+            {
+                "home_man_priority": 3,
+                "home_priority": 3,
+                "id": 146,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-06-28/851406044a75b78a113305136b006149.jpeg",
+                "opt_id": 146,
+                "opt_name": "海鲜水产"
+            },
+            {
+                "home_man_priority": 4,
+                "home_priority": 4,
+                "id": 1047,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-06-28/98af3ce49ec4d7b6c1deeab0cafb418e.jpeg",
+                "opt_id": 1047,
+                "opt_name": "消暑必备"
+            },
+            {
+                "home_man_priority": 5,
+                "home_priority": 5,
+                "id": 151,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-06-28/7280e0f2c4bc6f4fb64881c16b35b8d5.jpeg",
+                "opt_id": 151,
+                "opt_name": "蔬菜"
+            },
+            {
+                "home_man_priority": 6,
+                "home_priority": 6,
+                "id": 1041,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-06-19/5584586cefc196f067d3ed8ceb603766.jpeg",
+                "opt_id": 1041,
+                "opt_name": "进口优选"
+            },
+            {
+                "home_man_priority": 7,
+                "home_priority": 7,
+                "id": 978,
+                "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-05-17/9b5082c6a515a6eb5579a58407bb4e6b.jpeg",
+                "opt_id": 978,
+                "opt_name": "肉类熟食"
+            }
+        ],
+        "home_man_priority": 10,
+        "home_priority": 11,
+        "id": 13,
+        "image_url": "http://omsproductionimg.yangkeduo.com/goods/5635bbe762/730/100/404e96381c5bc065e7cfe35bffd4a225.jpg",
+        "opt_id": 13,
+        "opt_name": "水果"
+    }
+]

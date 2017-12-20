@@ -1,0 +1,456 @@
+{
+  "test_share_comment": {
+    "title": "罗纹V领针织开衫",
+    "image_url": "http://omsproductionimg.yangkeduo.com/images/unknown/0/yQSEkhEH22nz1dqn0NCvTQSAlcmACdXy.jpg@750w_1l_50Q.webp",
+    "goods_name": "男装 罗纹V领针织开衫(长袖) 188678 优衣库UNIK优衣库UNIK",
+    "sales": "已团4238件",
+    "price": "67800",
+    "comment": "模特个头是没得说，相当的阔以，味道也是很棒，第二天早上就到货！还有冰给镇着，很甜很新鲜！全家满意。",
+    "share_types": [
+      10,
+      8,
+      11,
+      12,
+      13
+    ],
+    "share_info": {
+      "title": "我参加了“进口南非橙6个26.9元【被阳光亲吻过的橙子】”拼单！拼好货，一起来！",
+      "desc": "【还差3人·拼好货商城】单果180-220g。被阳光亲吻过的橙子，饱满水润",
+      "thumbnail": "",
+      "options": {
+        "width": 750,
+        "height": 1366,
+        "background_color": 16777215,
+        "max_size": 153600,
+        "items": [
+          {
+            "source": "local_image",
+            "data": "",
+            "x": 0,
+            "y": 0,
+            "width": 1,
+            "height": 1
+          }
+        ]
+      },
+      "share_url": "goods.html?goods_id=1188852"
+    }
+  },
+  "test_share_type_10": {
+    "type": 10,
+    "share_params": {
+      "title": "助力享红包",
+      "desc": "助力享红包",
+      "thumbnail": "http://qr-v2.yangkeduo.com/wxa/2017-07-14/a-aaef411ce551d9076e9169c8b7aa20521499973428028.jpg",
+      "options": {
+        "width": 591,
+        "height": 756,
+        "background_color": 16777215,
+        "max_size": 1048576,
+        "items": [
+          {
+            "source": "image",
+            "data": "http://qr-v2.yangkeduo.com/wxa/2017-07-14/a-aaef411ce551d9076e9169c8b7aa20521499973428028.jpg",
+            "x": 0,
+            "y": 0,
+            "width": 1,
+            "height": 1
+          }
+        ]
+      },
+      "share_url": "http://mobile.yangkeduo.com"
+    }
+  },
+  "test_share_type_9": {
+    "type": 9,
+    "share_params": {
+      "title": "我参加了“进口南非橙6个26.9元【被阳光亲吻过的橙子】”拼单！拼好货，一起来！",
+      "desc": "【还差3人·拼好货商城】单果180-220g。被阳光亲吻过的橙子，饱满水润",
+      "thumbnail": "http://omsproductionimg.yangkeduo.com/goods/733a8d8950/100/100/22fde6b724e0ec413d91ccb7c813f773.jpg@750w_1l_50Q.webp",
+      "options": {
+        "width": 750,
+        "height": 960,
+        "background_color": 16777215,
+        "max_size": 1048576,
+        "items": [
+          {
+            "source": "image",
+            "data": "http://oiuh0libd.bkt.clouddn.com/fff.png",
+            "x": 0,
+            "y": 0,
+            "width": 1,
+            "height": 1
+          },
+          {
+            "source": "image",
+            "data": "http://oiuh0libd.bkt.clouddn.com/1482906961%281%29.png",
+            "x": 0.029333333333333333,
+            "y": 0.022916666666666665,
+            "width": 0.9413333333333334,
+            "height": 0.7354166666666667
+          },
+          {
+            "source": "image",
+            "data": "http://oiuh0libd.bkt.clouddn.com/ggg.png",
+            "x": 0.029333333333333333,
+            "y": 0.6541666666666667,
+            "width": 0.9413333333333334,
+            "height": 0.10416666666666667
+          },
+          {
+            "source": "text",
+            "data": "【澳大利亚】月新货马来西亚",
+            "font_size": 50,
+            "font_color": 16777215,
+            "bold_font": false,
+            "alignment_center": false,
+            "x": 0.06666666666666667,
+            "y": 0.6702083333333333,
+            "width": 0.9066666666666666,
+            "height": 0.0625,
+            "line_count": 1
+          },
+          {
+            "source": "text",
+            "data": "¥",
+            "font_size": 78,
+            "font_color": 14691876,
+            "bold_font": true,
+            "alignment_center": false,
+            "x": 0.07466666666666667,
+            "y": 0.793125,
+            "width": 0.1,
+            "height": 0.08333333333333333
+          },
+          {
+            "source": "text",
+            "data": 99.6,
+            "font_size": 82,
+            "font_color": 14691876,
+            "bold_font": false,
+            "alignment_center": false,
+            "x": 0.13700000000000007,
+            "y": 0.785,
+            "width": 0.3933333333333333,
+            "height": 0.08854166666666667
+          },
+          {
+            "source": "text",
+            "data": "市场价¥58.8",
+            "font_size": 38,
+            "font_color": 10263708,
+            "bold_font": false,
+            "alignment_center": false,
+            "x": 0.07266666666666667,
+            "y": 0.8872916666666666,
+            "width": 0.26666666666666666,
+            "height": 0.046875
+          }
+        ]
+      },
+      "share_url": "http://m.yiranshenghuo.com/gro1up.html?id=928553887&stp=mi&stn=1468314270742883163"
+    }
+  },
+  "test_share_type_8": {
+    "type": 8,
+    "share_params": {
+      "title": "我参加了“进口南非橙6个26.9元【被阳光亲吻过的橙子】”拼单！拼好货，一起来！",
+      "desc": "【还差3人·拼好货商城】单果180-220g。被阳光亲吻过的橙子，饱满水润",
+      "thumbnail": "http://omsproductionimg.yangkeduo.com/goods/733a8d8950/100/100/22fde6b724e0ec413d91ccb7c813f773.jpg@750w_1l_50Q.webp",
+      "options": {
+        "width": 750,
+        "height": 1334,
+        "background_color": 16777215,
+        "max_size": 1048576,
+        "items": [
+          {
+            "source": "image",
+            "data": "http://pinduoduoimg.yangkeduo.com/activity/free_trial_share_bg.png",
+            "x": 0,
+            "y": 0,
+            "width": 1,
+            "height": 1
+          },
+          {
+            "source": "image",
+            "data": "http://omsproductionimg.yangkeduo.com/images/goods/1606261376090545/MmcvNFLCKFAv4CRPdiXLzl50zHbSAYpV.jpg@434w_0l_90Q.webp",
+            "x": 0.21866666666666668,
+            "y": 0.2353823088455772,
+            "width": 0.5786666666666667,
+            "height": 0.32533733133433285
+          },
+          {
+            "source": "image",
+            "data": "http://omsproductionimg.yangkeduo.com/goods/733a8d8950/100/100/22fde6b724e0ec413d91ccb7c813f773.jpg@80w_1l_90Q.webp",
+            "x": 0.02666666666666667,
+            "y": 0.11094452773613193,
+            "width": 0.10666666666666667,
+            "height": 0.05997001499250375
+          },
+          {
+            "source": "image",
+            "data": "http://omsproductionimg.yangkeduo.com/goods/733a8d8950/100/100/22fde6b724e0ec413d91ccb7c813f773.jpg@80w_1l_90Q.webp",
+            "x": 0.02666666666666667,
+            "y": 0.2143928035982009,
+            "width": 0.10666666666666667,
+            "height": 0.05997001499250375
+          },
+          {
+            "source": "image",
+            "data": "http://omsproductionimg.yangkeduo.com/goods/733a8d8950/100/100/22fde6b724e0ec413d91ccb7c813f773.jpg@80w_1l_90Q.webp",
+            "x": 0.02666666666666667,
+            "y": 0.6866566716641679,
+            "width": 0.10666666666666667,
+            "height": 0.05997001499250375
+          },
+          {
+            "source": "text",
+            "data": "16:13",
+            "font_size": 22,
+            "font_color": 16777215,
+            "bold_font": true,
+            "alignment_center": true,
+            "x": 0.456,
+            "y": 0.004122900749625187,
+            "width": 0.10666666666666667,
+            "height": 0.019490254872563718
+          },
+          {
+            "source": "text",
+            "data": "陈晨",
+            "font_size": 34,
+            "font_color": 16777215,
+            "bold_font": true,
+            "alignment_center": true,
+            "x": 0.21866666666666668,
+            "y": 0.03373,
+            "width": 0.5786666666666667,
+            "height": 0.05748125937031485
+          },
+          {
+            "source": "text",
+            "data": "我刚申请了一个免费试用商品，赶紧来跟我一起拼团吧！",
+            "font_size": 26,
+            "font_color": 3355443,
+            "bold_font": false,
+            "alignment_center": false,
+            "x": 0.21866666666666668,
+            "y": 0.12593703148425786,
+            "width": 0.5866666666666667,
+            "height": 0.05847076461769116
+          },
+          {
+            "source": "text",
+            "data": "云南特产玉溪沅江大青芒果新鲜青皮大芒果5斤 香甜可口生吃塑料袋开房间啊浪费空间大了是否水果",
+            "font_size": 26,
+            "line_count": 2,
+            "font_color": 3355443,
+            "bold_font": false,
+            "alignment_center": false,
+            "x": 0.21866666666666668,
+            "y": 0.5727136431784108,
+            "width": 0.5866666666666667,
+            "height": 0.05847076461769116
+          },
+          {
+            "source": "text",
+            "data": "¥",
+            "font_size": 24,
+            "font_color": 16721729,
+            "bold_font": true,
+            "alignment_center": false,
+            "x": 0.21966666666666668,
+            "y": 0.6426235622188905,
+            "width": 0.032,
+            "height": 0.023991004497751123
+          },
+          {
+            "source": "text",
+            "data": 99.64,
+            "font_size": 44,
+            "font_color": 16721729,
+            "bold_font": true,
+            "alignment_center": false,
+            "x": 0.25066666666666665,
+            "y": 0.6251874062968515,
+            "width": 0.5,
+            "height": 0.047976011994003
+          },
+          {
+            "source": "text",
+            "data": "长按下方指纹识别二维码，立即抢购",
+            "font_size": 26,
+            "font_color": 16721729,
+            "bold_font": false,
+            "alignment_center": false,
+            "x": 0.21866666666666668,
+            "y": 0.7,
+            "width": 0.5866666666666667,
+            "height": 0.029985007496251874
+          },
+          {
+            "source": "qrcode",
+            "x": 0.24666666666666667,
+            "y": 0.7496251874062968,
+            "width": 0.248,
+            "height": 0.13943028485757122
+          }
+        ]
+      },
+      "share_url": "http://m.yiranshenghuo.com/gro1up.html?id=928553887&stp=mi&stn=1468314270742883163"
+    }
+  },
+  "test_share_type_15":{
+    "type": 15,
+    "share_params": {
+      "desc": "朋友圈文案 锤子 坚果Pro2 全面屏 全网通4G指纹智能手机 双卡双待 锤子PRO 锤子手机",
+      "share_url": "http://mobile.yangkeduo.com/goods.html?goods_id=182638349",
+      "multi_image_options": [{
+        "type": "static",
+        "data": "amcomponent://com.xunmeng.pinduoduo.android.lua/img/qiandao/1.png"
+      }, {
+        "type": "static",
+        "data": "amcomponent://com.xunmeng.pinduoduo.android.lua/img/qiandao/2.png"
+      }, {
+        "type": "static",
+        "data": "amcomponent://com.xunmeng.pinduoduo.android.lua/img/qiandao/3.png"
+      }, {
+        "type": "static",
+        "data": "amcomponent://com.xunmeng.pinduoduo.android.lua/img/qiandao/4.png"
+      }, {
+        "type": "dynamic",
+        "options": {
+          "width": 750,
+          "height": 960,
+          "background_color": 16777215,
+          "max_size": 1048576,
+          "items": [{
+            "source": "image",
+            "data": "http://oiuh0libd.bkt.clouddn.com/fff.png",
+            "x": 0,
+            "y": 0,
+            "width": 1,
+            "height": 1
+          }, {
+            "source": "image",
+            "data": "http://omsproductionimg.yangkeduo.com/images/2017-12-01/390135adb7e61bfd7db97255499f8e1d.jpeg",
+            "x": 0.029333333333333333,
+            "y": 0.022916666666666665,
+            "width": 0.9413333333333334,
+            "height": 0.7354166666666667
+          }, {
+            "source": "image",
+            "data": "http://oiuh0libd.bkt.clouddn.com/ggg.png",
+            "x": 0.029333333333333333,
+            "y": 0.6541666666666667,
+            "width": 0.9413333333333334,
+            "height": 0.10416666666666667
+          }, {
+            "source": "text",
+            "data": "锤子 坚果Pro2 全面屏 全网通4G指纹智能手机",
+            "font_size": 50,
+            "font_color": 16777215,
+            "bold_font": false,
+            "alignment_center": false,
+            "x": 0.06666666666666667,
+            "y": 0.6702083333333333,
+            "width": 0.9066666666666666,
+            "height": 0.0625,
+            "line_count": 1
+          }, {
+            "source": "text",
+            "data": "¥",
+            "font_size": 78,
+            "font_color": 14691876,
+            "bold_font": true,
+            "alignment_center": false,
+            "x": 0.07466666666666667,
+            "y": 0.793125,
+            "width": 0.1,
+            "height": 0.08333333333333333
+          }, {
+            "source": "text",
+            "data": 1828,
+            "font_size": 82,
+            "font_color": 14691876,
+            "bold_font": false,
+            "alignment_center": false,
+            "x": 0.13700000000000007,
+            "y": 0.785,
+            "width": 0.3933333333333333,
+            "height": 0.08854166666666667
+          }, {
+            "source": "text",
+            "data": "市场价¥3399",
+            "font_size": 38,
+            "font_color": 10263708,
+            "bold_font": false,
+            "alignment_center": false,
+            "x": 0.07266666666666667,
+            "y": 0.8872916666666666,
+            "width": 0.26666666666666666,
+            "height": 0.046875
+          }, {
+            "source": "qrcode",
+            "url": "http://mobile.yangkeduo.com/goods.html?goods_id=182638349",
+            "x": 0.34666666666666667,
+            "y": 0.7996251874062968,
+            "width": 0.248,
+            "height": 0.13943028485757122
+          }
+          ]
+        }
+      }, {
+        "type": "static",
+        "data": "amcomponent://com.xunmeng.pinduoduo.android.lua/img/qiandao/6.png"
+      }, {
+        "type": "static",
+        "data": "amcomponent://com.xunmeng.pinduoduo.android.lua/img/qiandao/7.png"
+      }, {
+        "type": "static",
+        "data": "amcomponent://com.xunmeng.pinduoduo.android.lua/img/qiandao/8.png"
+      }, {
+        "type": "static",
+        "data": "amcomponent://com.xunmeng.pinduoduo.android.lua/img/qiandao/9.png"
+      }
+      ]
+    }
+  },
+  "test_chat_friend_push": {
+    "type": 1,
+    "title": "收到一条好友聊天消息，快去看看吧",
+    "msg_type": "",
+    "message": "186****7899：消息内容",
+    "uid": "5448724292",
+    "cid": "3909263288",
+    "content": "chat_detail_friends.html?other_uid=3909263288&ts=1476163248750"
+  },
+  "test_friend_request_push": {
+    "type": 1,
+    "title": "好友请求标题",
+    "msg_type": "",
+    "message": "好友请求内容",
+    "uid": "5448724292",
+    "cid": "1476163248750",
+    "content": "friends_requests.html?uid=3909263288&ts=1476163248750",
+    "props": {
+      "url": "friends_requests.html?uid=3909263288&ts=1476163248750",
+      "type": "pdd_requesting_friends",
+      "props": "{\"uid\":\"3909263288\"}"
+    }
+  },
+  "proxy_setting": {
+    "type": "http",
+    "host": "172.16.1.213",
+    "port": 8888
+  },
+  "app_push_drift_bottle": {
+    "title": "收到一个来自上海的漂流瓶",
+    "message": "快去打开吧",
+    "uid": "5681026475",
+    "content": "drift_bottle.html?style=2",
+    "msg_type": "friend_chat",
+    "cid": "",
+    "type": 1
+  }
+}
