@@ -1,1 +1,1 @@
-include ':app', ':lib_style'
+include ':app', ':lib_style', ':lib_common', ':widget', ':sdk', ':module-basic'
