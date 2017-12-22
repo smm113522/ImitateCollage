@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">仿照PinDuoduo</string>
+    <string name="copyright">Copyright © 2015–2017 Pingduoduo</string>
+    <string name="main_tab_name_home">首页</string>
+    <string name="main_tab_name_new">新品</string>
+    <string name="main_tab_name_search">搜索</string>
+    <string name="main_tab_name_chat">聊天</string>
+    <string name="main_tab_name_personal">个人中心</string>
 </resources>
