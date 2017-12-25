@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
 import butterknife.ButterKnife;
+import butterknife.Unbinder;
 
 /**
  * Created by Administrator on 2017/12/21 0021.
@@ -13,7 +14,8 @@ import butterknife.ButterKnife;
 public abstract class BaseActivity<T extends BasePresenter, E extends BaseModel>  extends AppCompatActivity {
 
     public T mPresenter;
-    public E mModel; 
+    public E mModel;
+    private Unbinder unbinder;
 
     public Activity getActivity() {
         return this;
@@ -28,10 +30,11 @@ public abstract class BaseActivity<T extends BasePresenter, E extends BaseModel>
     protected void init() {
 //        getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_ADJUST_PAN);
         setContentView(getLayoutResID());
+        unbinder = ButterKnife.bind(this);
         mPresenter = TUtil.getT(this, 0);
         mModel = TUtil.getT(this, 1);
         if (this instanceof BaseView) mPresenter.setVM(this, mModel);
-        ButterKnife.bind(this);
+
         initView();
     }
     /**
@@ -43,5 +46,10 @@ public abstract class BaseActivity<T extends BasePresenter, E extends BaseModel>
 
     protected abstract void initView();
 
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        unbinder.unbind();
+    }
 
 }

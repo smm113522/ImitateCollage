@@ -9,8 +9,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import java.io.Serializable;
@@ -30,12 +28,6 @@ public abstract class BaseFragment extends Fragment {
 
     protected LayoutInflater mInflater;
     Unbinder unbinder;
-
-    boolean isShow = true;
-
-    public void setShow(boolean show) {
-        isShow = show;
-    }
 
     @Override
     public void onAttach(Context context) {
@@ -59,25 +51,10 @@ public abstract class BaseFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        if (isShow) {
-            if (mRoot != null) {
-                ViewGroup parent = (ViewGroup) mRoot.getParent();
-                if (parent != null)
-                    parent.removeView(mRoot);
-            } else {
-                mRoot = inflater.inflate(getLayoutId(), container, false);
-                mInflater = inflater;
-                // Do something
-                onBindViewBefore(mRoot);
-                // Bind view
-                unbinder = ButterKnife.bind(this, mRoot);
-                // Get savedInstanceState
-                if (savedInstanceState != null)
-                    onRestartInstance(savedInstanceState);
-                // Init
-                initWidget(mRoot);
-                initData();
-            }
+        if (mRoot != null) {
+            ViewGroup parent = (ViewGroup) mRoot.getParent();
+            if (parent != null)
+                parent.removeView(mRoot);
         } else {
             mRoot = inflater.inflate(getLayoutId(), container, false);
             mInflater = inflater;
@@ -102,12 +79,12 @@ public abstract class BaseFragment extends Fragment {
     @Override
     public void onDestroy() {
         super.onDestroy();
-//        ButterKnife.des(this);
         if (unbinder != null) {
             unbinder.unbind();
         }
-//        mImgLoader = null;
-        mBundle = null;
+        if (mBundle != null) {
+            mBundle = null;
+        }
     }
 
     protected abstract int getLayoutId();

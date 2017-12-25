@@ -1,6 +1,7 @@
 package com.xunmeng.pinduoduo.activity;
 
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
 
 import com.xunmeng.pinduoduo.R;
 import com.xunmeng.pinduoduo.basic.BaseActivity;
@@ -8,11 +9,8 @@ import com.xunmeng.pinduoduo.fragment.NavFragment;
 import com.xunmeng.pinduoduo.fragment.OnTabReselectListener;
 import com.xunmeng.pinduoduo.widget.NavigationButton;
 
-import butterknife.BindView;
-
 public class MainActivity extends BaseActivity implements NavFragment.OnNavigationReselectListener {
 
-    @BindView(R.id.fag_nav)
     NavFragment fagNav;
 
     @Override
@@ -22,7 +20,9 @@ public class MainActivity extends BaseActivity implements NavFragment.OnNavigati
 
     @Override
     protected void initView() {
-        fagNav.setup(this, getSupportFragmentManager(), R.id.main_container, this);
+        FragmentManager manager = getSupportFragmentManager();
+        fagNav = ((NavFragment) manager.findFragmentById(R.id.fag_nav));
+        fagNav.setup(this, manager, R.id.main_container, this);
     }
 
     @Override

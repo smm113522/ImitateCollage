@@ -44,6 +44,7 @@ public class SplashActivity extends BaseActivity {
         public void run() {
             recLen--;
             if (recLen == 1) {
+                finish();
                 AppRoute.jumpToMain(getApplicationContext());
             } else {
                 handler.postDelayed(this, 1000);

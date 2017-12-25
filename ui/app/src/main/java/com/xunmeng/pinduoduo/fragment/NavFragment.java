@@ -6,13 +6,10 @@ import android.graphics.drawable.ColorDrawable;
 import android.graphics.drawable.Drawable;
 import android.graphics.drawable.LayerDrawable;
 import android.graphics.drawable.ShapeDrawable;
-import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
-import android.view.LayoutInflater;
 import android.view.View;
-import android.view.ViewGroup;
 
 import com.xunmeng.pinduoduo.R;
 import com.xunmeng.pinduoduo.basic.BaseFragment;
@@ -22,23 +19,12 @@ import com.xunmeng.pinduoduo.widget.NavigationButton;
 
 import java.util.List;
 
-import butterknife.BindView;
-import butterknife.ButterKnife;
-import butterknife.OnClick;
-import butterknife.Unbinder;
-
-
 public class NavFragment extends BaseFragment implements View.OnClickListener {
 
-    @BindView(R.id.nav_item_news)
     NavigationButton mNavNews;
-    @BindView(R.id.nav_item_tweet)
     NavigationButton mNavTweet;
-    @BindView(R.id.nav_item_ma)
     NavigationButton mNavMa;
-    @BindView(R.id.nav_item_explore)
     NavigationButton mNavExplore;
-    @BindView(R.id.nav_item_me)
     NavigationButton mNavMe;
 
     private Context mContext;
@@ -62,6 +48,11 @@ public class NavFragment extends BaseFragment implements View.OnClickListener {
                 lineDrawable
         });
         root.setBackgroundDrawable(layerDrawable);
+        mNavNews = findView(R.id.nav_item_news);
+        mNavTweet = findView(R.id.nav_item_tweet);
+        mNavMa = findView(R.id.nav_item_ma);
+        mNavExplore = findView(R.id.nav_item_explore);
+        mNavMe = findView(R.id.nav_item_me);
 
         mNavNews.init(R.drawable.tab_icon_home,
                 R.string.main_tab_name_home,
@@ -83,11 +74,14 @@ public class NavFragment extends BaseFragment implements View.OnClickListener {
                 R.string.main_tab_name_personal,
                 PersonalFragment.class);
 
+        mNavNews.setOnClickListener(this);
+        mNavTweet.setOnClickListener(this);
+        mNavMa.setOnClickListener(this);
+        mNavExplore.setOnClickListener(this);
+        mNavMe.setOnClickListener(this);
+
     }
 
-    @OnClick({R.id.nav_item_news, R.id.nav_item_tweet,
-            R.id.nav_item_explore, R.id.nav_item_me,
-            R.id.nav_item_ma})
     @Override
     public void onClick(View v) {
 //        StatusBarUtil.immersive(getActivity(), 0xffe62e2e, 0f);
