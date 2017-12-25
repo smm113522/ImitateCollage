@@ -28,4 +28,5 @@ dependencies {
     compile 'com.android.support:multidex:1.0.1'
     compile project(path: ':widget')
     compile project(path: ':model')
+    compile project(path: ':utils-v4')
 }
