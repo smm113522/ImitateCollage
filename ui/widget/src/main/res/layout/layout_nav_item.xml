@@ -19,7 +19,6 @@
             android:paddingLeft="@dimen/lay_2"
             android:paddingRight="@dimen/lay_2"
             android:paddingTop="@dimen/lay_2"
-            android:background="@mipmap/logo"
             android:scaleType="fitCenter" />
 
         <TextView
