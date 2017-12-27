@@ -2,17 +2,17 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical">
 
-    <com.xunmeng.pinduoduo.widget.smarttablayout.SmartTabLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:app="http://schemas.android.com/apk/res-auto"
+    <com.xunmeng.pinduoduo.widget.smarttablayout.SmartTabLayout
         android:id="@+id/viewpagertab"
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:paddingBottom="4dp"
-        app:stl_defaultTabTextColor="#fff"
+        app:stl_defaultTabTextColor="@color/black_alpha_240"
         app:stl_defaultTabTextHorizontalPadding="24dp"
-        app:stl_indicatorColor="#2d2d2d"
+        app:stl_indicatorColor="@color/colorAccent"
         app:stl_indicatorCornerRadius="1.5dp"
         app:stl_indicatorInterpolation="smart"
         app:stl_indicatorThickness="3dp"
